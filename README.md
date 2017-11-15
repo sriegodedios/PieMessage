@@ -1,3 +1,12 @@
+# PieMessage
+This an application that allows clients(windows, android, ect) to use iMessage enviroment.
+Sorta like how a Mac can send iMessages and its pushed to your iPhone.
+
+Right now I'm developing a Windows Client using C# and WPF (Windows Presentation Foundation).
+
+
+
+# =======================================================================
 # PieMessage - iMessage on Android
 This is project allows Android clients to communicate using iMessage.
 

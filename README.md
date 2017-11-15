@@ -4,8 +4,8 @@ Sorta like how a Mac can send iMessages and its pushed to your iPhone.
 
 Right now I'm developing a Windows Client using C# and WPF (Windows Presentation Foundation).
 
-For more information about the original application, see below
-# ===================================================
+For more information about the original application, see below.
+# ===========================
 # PieMessage - iMessage on Android
 This is project allows Android clients to communicate using iMessage.
 
